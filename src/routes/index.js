@@ -6,7 +6,7 @@ import DetailPage from "../pages/DetailPage";
 import HomePage from "../pages/HomePage";
 import LoginPage from "../pages/LoginPage";
 import NotFoundPage from "../pages/NotFoundPage";
-import AuthRequire from "./AuthRequire";
+
 
 function Router() {
   return (
