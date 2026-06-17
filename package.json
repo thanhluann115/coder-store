@@ -16,6 +16,7 @@
     "core-js": "^3.49.0",
     "core-js-pure": "^3.49.0",
     "json-server": "^1.0.0-beta.15",
+    "numeral": "^2.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.79.0",
